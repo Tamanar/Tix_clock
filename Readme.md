@@ -4,12 +4,12 @@
 - Fabriquer/trouver votre contenant pour votre électronique (soit en bois soit tout imprimé en 3D)
 - Imprimer le support pour les Leds
 - Découper une planche pour coller les leds. Faire attention aux sens des leds
-- Braser(souder) les leds entre elle (faite bien attention pour le fil de donnée de bien suivre les flèches)
+- Braser(souder) les leds entre elles (faite bien attention pour le fil de donnée de bien suivre les flèches)
 - Relier le fil de données (pin 6 par défaut) à l'arduino
 - Relier le DS3231 à l'arduino (A4 A5 par défaut)
 
 - Si Version bluetooth:
-    - Il faut brancher le module bluetooth sur le RX et le TX sur l'arduino(pensez à croiser les fils (Rx sur tx et inversment))
+    - Brancher le module bluetooth sur le RX et le TX sur l'arduino(pensez à croiser les fils (Rx sur tx et inversment))
 - Si version simple
     - Brancher l'interrupteur sur l'arduino (pin 8 par défaut) et sur le 5V
     - Penser à mettre une résistance de pull-down entre le pin 8 et la masse
