@@ -8,7 +8,7 @@
 - Découper une planche pour coller les leds. Faire attention aux sens des leds
 - Braser(souder) les leds entre elles (faite bien attention pour le fil de donnée de bien suivre les flèches)
 - Relier le fil de données (pin 6 par défaut) à l'arduino
-- Relier le DS3231 à l'arduino (A4 A5 par défaut)
+- Relier le DS3231 à l'arduino (SDA sur A4 et SCL sur A5 par défaut)
 
 - Si Version bluetooth:
     - Brancher le module bluetooth sur le RX et le TX sur l'arduino(pensez à croiser les fils (Rx sur tx et inversment))
