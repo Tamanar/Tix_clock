@@ -1,6 +1,6 @@
 # Fabrication Tix clock
 
-*Il existe deux versions. Une version ou le changement d'heure été/hiver s'effectue via un interrupteur et une version bluetooth où, il est possible de changer la couleur des différent pannels et le changement d'heure ce via une application, bluetooth electronic.*
+*Il existe deux versions. Une version ou le changement d'heure été/hiver s'effectue via un interrupteur et une version bluetooth où, il est possible de changer la couleur des différent pannels et le changement d'heure via une application, bluetooth electronic.*
 
 **Étape Hardware :**
 - Fabriquer/trouver votre contenant pour votre électronique (soit en bois soit tout imprimé en 3D)
